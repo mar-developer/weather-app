@@ -46,7 +46,7 @@ const Home = () => {
     const params = {
       lat,
       lon,
-      appid: "d0fd259cc179cd7e2f9a39ca121e2ebb",
+      appid: "<OpenWeatherAPI>",
       units: "metric",
     };
 
